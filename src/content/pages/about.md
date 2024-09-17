@@ -4,29 +4,24 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/hero.jpg'
+    alt: Agung Bahtiar
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/hero.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Agung Bahtiar - Software Engineer - Linux Enthusiast - Network Enginner
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm Agung Bahtiar, a 5th-semester student majoring in Business Informatics at the State Polytechnic of Banyuwangi. I've been passionate about technology since childhood, with a particular focus on web technologies, networking, and Linux. My approach involves continuous learning, practical application of knowledge, and leveraging technology to solve real-world problems. I have a profound appreciation for web development, network systems, and the versatility of Linux. When I'm not immersed in code or studying, you can find me cycling or working on personal coding projects - two activities that help me maintain a calm and focused mind. Feel free to explore some of my academic projects or connect with me to discuss the latest in tech!".
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like Mysql,Sqlite,PostgreSql, I am also a network engineer and have mastered basic skills from Mikrotik, Cisco and am MTCNA certified from Mikrotik, and I am also quite skilled as a sysadmin with Linux and Windows server operating systems.
 
 ## Innovation and Problem-Solving
 
 I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
 
-## Global Perspective, Local Impact
-
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
 
 ## Continuous Learning
 

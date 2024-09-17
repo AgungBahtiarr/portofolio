@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Agung Bahtiar',
+    subtitle: 'Software Engineer - Linux Enthusiast - Network Enginner',
+    description: '',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '',
+        alt: ''
     },
     headerNavLinks: [
         {
@@ -72,35 +72,30 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://linkedin.com/in/agung-bahtiar-057265213'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/agungbahctiar'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/agungberkah12'
+        }, {
+            text: 'Github',
+            href: 'https://github.com/AgungBahtiarr'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: "Hello! Welcome to My Unique Corner of the Web, Let's embark on an exciting digital adventure together!.",
+        text: "I'm Agung Bahtiar, a 5th-semester student majoring in Business Informatics at the State Polytechnic of Banyuwangi. I've been passionate about technology since childhood, with a particular focus on web technologies, networking, and Linux. My approach involves continuous learning, practical application of knowledge, and leveraging technology to solve real-world problems. I have a profound appreciation for web development, network systems, and the versatility of Linux. When I'm not immersed in code or studying, you can find me cycling or working on personal coding projects - two activities that help me maintain a calm and focused mind. Feel free to explore some of my academic projects or connect with me to discuss the latest in tech!",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/hero.jpg',
+            alt: 'Agung Bahtiar'
         },
         actions: [
             {
@@ -109,11 +104,11 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to Dante Newsletter',
+    //     text: 'One update per week. All the latest posts directly in your inbox.',
+    //     formUrl: '#'
+    // },
     postsPerPage: 8,
     projectsPerPage: 8
 };

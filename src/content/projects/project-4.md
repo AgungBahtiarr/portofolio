@@ -1,61 +1,53 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'UPT Kewirausahaan Dan Inkubator Bisnis: Politeknik Negeri Banyuwangi Profile'
+description: A comprehensive profile website for the Technical Service Unit of Entrepreneurship and Business Incubator at the State Polytechnic of Banyuwangi, featuring unit information and a blog about their activities.
+publishDate: 'Jul 31 2024'
 seo:
-  image:
-    src: '/project-4.jpg'
+   image:
+      src: '/upt-kewirausahaan-preview.jpg'
+      alt: UPT Kewirausahaan website preview
 ---
-
-![Project preview](/project-4.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![UPT Kewirausahaan website preview](/upt-kewirausahaan-preview.jpg)
 
 **Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+This website serves as the digital face of the Technical Service Unit (UPT) for Entrepreneurship and Business Incubator at the State Polytechnic of Banyuwangi. It provides comprehensive information about the unit's profile and hosts a dynamic blog showcasing their various activities and initiatives.
+
+[Github Repo](https://github.com/AgungBahtiarr/inkubis-plw.git)
 
 ## Objectives
-
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+1. Create an informative and user-friendly website to showcase the UPT's profile and activities.
+2. Implement a blog system to regularly update stakeholders about ongoing projects and events.
+3. Promote the entrepreneurship and business incubation services offered by the unit.
 
 ## Features
+1. **Unit Profile:**
+   - Detailed information about the UPT's mission, vision, and objectives.
+   - Team profiles highlighting the expertise of unit members.
 
-1. **Biometric Mood Analysis:**
+2. **Services Overview:**
+   - Comprehensive list and descriptions of entrepreneurship support services.
+   - Information about the business incubation program and application process.
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+3. **Dynamic Blog:**
+   - Regular updates on UPT activities, events, and success stories.
+   - Categorized articles for easy navigation and content discovery.
 
-2. **Personalized Playlists:**
+4. **Resource Center:**
+   - Downloadable materials related to entrepreneurship and business development.
+   - Links to relevant external resources and partner organizations.
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
-
-3. **Context-Aware Recommendations:**
-
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
-
-4. **Collaborative Playlists:**
-
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
-
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+5. **Contact and Enquiry:**
+   - Contact form for inquiries and applications.
+   - Integration with social media platforms for wider reach.
 
 ## Technology Stack
-
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
+- Frontend and Backend: Astro for fast, content-focused website development.
+- Content Management: Markdown files for easy content creation and management.
+- Styling: Tailwind CSS for responsive and customizable design.
+- Deployment: Netlify for continuous deployment and hosting.
 
 ## Outcome
+The website has significantly improved the UPT's online presence, making information about entrepreneurship and business incubation services more accessible to students and the local business community. The blog has become a valuable resource for aspiring entrepreneurs, showcasing success stories and providing practical insights.
 
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Stakeholder Testimonial
+> The new website perfectly captures the essence of our unit. It's not only visually appealing but also highly functional. The Astro framework has made it incredibly fast and efficient. We're particularly pleased with how easy it is to update the blog, allowing us to keep our community informed about our latest initiatives and success stories.

@@ -1,64 +1,47 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
-isFeatured: true
+title: 'MediaBlambangan: Banyuwangi Local News Portal'
+description: MediaBlambangan is a web-based news portal dedicated to delivering up-to-date and comprehensive news coverage for Banyuwangi Regency. It serves as the primary source of local information for residents and those interested in Banyuwangi affairs.
+publishDate: 'Jul 31 2024'
 seo:
   image:
-    src: '/project-2.jpg'
-    alt: Project preview
+    src: '/mediablambangan-preview.jpg'
+    alt: MediaBlambangan website preview
 ---
-
-![Project preview](/project-2.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![MediaBlambangan website preview](/mediablambangan-preview.jpg)
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+MediaBlambangan is a dynamic news website focused on providing timely and relevant news coverage for Kabupaten Banyuwangi. This platform aims to keep the local community informed about regional developments, events, and stories that matter to Banyuwangi residents.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+[Github Repo](https://github.com/AgungBahtiarr/media-blambangan.git)
 
 ## Objectives
-
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Create a user-friendly news portal dedicated to Banyuwangi Regency.
+2. Deliver accurate, timely, and comprehensive local news coverage.
+3. Foster community engagement and provide a platform for local voices.
 
 ## Features
+1. **Categorized News Sections:**
+   - Organized sections for politics, economy, culture, education, and more.
+   - Special focus on uniquely Banyuwangi events and developments.
 
-1. **Dynamic Destination Timelines:**
+2. **Multimedia Content:**
+   - Integration of text articles, photos, and video reports.
+   - Live streaming capability for important local events.
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+3. **Community Engagement:**
+   - Comments section for readers to discuss news articles.
+   - User-generated content section for community stories and opinions.
 
-2. **Interactive Historical Events:**
-
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
-
-3. **Personalized Time Travel Planner:**
-
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
-
-4. **Time-Port Virtual Reality Experience:**
-
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
+4. **Mobile Responsiveness:**
+   - Fully responsive design for optimal viewing on all devices.
+   - Mobile app for iOS and Android for on-the-go news access.
 
 ## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+- Frontend: Astro.js for server-side rendering and improved SEO.
+- CMS: TinaCMS for efficient and intuitive CMS UI.
 
 ## Outcome
+MediaBlambangan has become the go-to source for Banyuwangi news, significantly increasing local engagement and community awareness. The platform has successfully bridged information gaps and promoted local culture and events, contributing to a more informed and connected Banyuwangi community.
 
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## User Testimonial
+> MediaBlambangan has transformed how we stay informed about our local community. The website is easy to navigate, and the news is always fresh and relevant. It's become an essential part of my daily routine to check MediaBlambangan for the latest happenings in Banyuwangi.

@@ -1,66 +1,40 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Autoinvoice: Automated WiFi Billing System - Ongoing Project'
+description: Autoinvoice is a website for automated customer billing for WiFi services provided by wijaya.net. It streamlines the invoicing process for WiFi customers, enhancing efficiency and accuracy in billing operations.
+publishDate: 'Jul 31 2024'
 seo:
   image:
-    src: '/project-1.jpg'
-    alt: Project preview
+    src: '/autoinvoice-preview.jpg'
+    alt: Autoinvoice system preview
 ---
 
-![Project preview](/project-1.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Autoinvoice is an innovative web-based solution designed to automate the billing process for wijaya.net's WiFi customers. This system aims to streamline invoicing, reduce manual errors, and improve overall efficiency in managing customer accounts and payments.
+
 
 ## Objectives
-
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+1. Develop a user-friendly web interface for automated WiFi billing.
+2. Integrate with wijaya.net's existing customer database and WiFi usage tracking systems.
+3. Provide accurate, timely, and transparent billing for WiFi services.
 
 ## Features
+1. **Automated Billing Generation:**
+   - System automatically generates invoices based on customer WiFi usage.
+   - Customizable billing cycles (monthly, quarterly, etc.) to suit different customer needs.
 
-1. **EcoScore and Challenges:**
+2. **Customer Portal:**
+   - Secure login for customers to view their usage, current and past invoices.
+   - Option for customers to download invoices and make online payments.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+3. **Admin Dashboard:**
+   - Comprehensive overview of billing status, payment history, and customer accounts.
+   - Tools for manual adjustments and customer support operations.
 
-2. **Personalized Eco-Goals:**
+4. **Payment Integration:**
+   - Secure payment gateway integration for online payments.
+   - Support for multiple payment methods to enhance customer convenience.
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+5. **Reporting and Analytics:**
+   - Generate detailed reports on revenue, usage patterns, and customer behavior.
+   - Analytics tools to help wijaya.net optimize their service offerings.
 
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).

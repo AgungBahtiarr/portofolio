@@ -1,64 +1,47 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
-isFeatured: true
+title: 'Sponsorify: Connecting Events with Sponsors'
+description: Sponsorify is a web platform that bridges the gap between event organizers and potential sponsors, streamlining the process of finding and securing sponsorships for various events.
+publishDate: 'Jul 31 2024'
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/sponsorify-preview.jpg'
+    alt: Sponsorify platform preview
 ---
-
-![Project preview](/project-3.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Sponsorify platform preview](/sponsorify-preview.jpg)
 
 **Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Sponsorify is an innovative web-based platform designed to revolutionize the sponsorship landscape. It serves as a dynamic marketplace where event organizers can showcase their projects and connect with potential sponsors, while sponsors can discover exciting opportunities that align with their marketing goals.
+
+[Github Repo](https://github.com/AgungBahtiarr/pbl-sponsorify-website.git)
 
 ## Objectives
-
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+1. Create a user-friendly platform for event organizers to list their sponsorship needs.
+2. Provide sponsors with a diverse range of sponsorship opportunities.
+3. Facilitate seamless communication and transactions between organizers and sponsors.
 
 ## Features
+1. **Event Listing:**
+   - Detailed profiles for events, including description, audience demographics, and sponsorship packages.
+   - Advanced search and filter options for sponsors to find relevant opportunities.
 
-1. **AI-Powered Recipe Recommendations:**
+2. **Sponsor Marketplace:**
+   - Company profiles for sponsors, showcasing their interests and past sponsorships.
+   - Matching algorithm to suggest relevant events to sponsors based on their preferences.
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+3. **Communication Hub:**
+   - In-platform messaging system for direct communication between organizers and sponsors.
+   - Proposal submission and review tools.
 
-2. **Ingredient Scanner and Inventory Management:**
-
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
-
-3. **Step-by-Step Cooking Guide:**
-
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
-
-4. **Nutritional Insights and Meal Planning:**
-
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
+4. **Analytics Dashboard:**
+   - Detailed metrics for both organizers and sponsors to track engagement and ROI.
+   - Post-event reporting tools to measure sponsorship success.
 
 ## Technology Stack
-
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
+- Fullstack: Laravel for server-side rendering and improved SEO
+- Database: MySql for flexible and scalable data storage.
 
 ## Outcome
+Sponsorify has successfully transformed the sponsorship landscape, making it easier for event organizers to secure funding and for sponsors to find valuable marketing opportunities. The platform has facilitated numerous successful partnerships, contributing to the growth of events across various industries.
 
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## User Testimonial
+> As an event organizer, Sponsorify has been a game-changer. It's dramatically reduced the time and effort required to find suitable sponsors. The platform's intuitive design and powerful features have helped us secure sponsorships we wouldn't have found otherwise. It's become an indispensable tool for our events.
