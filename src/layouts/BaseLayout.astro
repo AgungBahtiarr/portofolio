@@ -8,6 +8,7 @@ import Nav from '../components/Nav.astro';
 export type Props = HeadProps & { showHeader?: boolean };
 
 const { showHeader = true, ...head } = Astro.props;
+import { SEO } from 'astro-seo';
 ---
 
 <!doctype html>
