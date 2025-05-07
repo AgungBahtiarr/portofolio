@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Agung Bahtiar',
     subtitle: 'Software Engineer - Linux Enthusiast - Network Enginner',
-    description: '',
+    description: 'a place to share and share learning experiences from Agung Bahtiar',
     image: {
         src: '',
         alt: ''
@@ -71,7 +71,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
+        }
     ],
     socialLinks: [
         {
@@ -85,7 +85,8 @@ const siteConfig: SiteConfig = {
         {
             text: 'X/Twitter',
             href: 'https://twitter.com/agungberkah12'
-        }, {
+        },
+        {
             text: 'Github',
             href: 'https://github.com/AgungBahtiarr'
         }
