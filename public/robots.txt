@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agungberkah.my.id/sitemap-0.xml
